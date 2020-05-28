@@ -1,5 +1,7 @@
 # Spotify_playlist_from_YouTube
-Add songs to liked videos on YouTube and it will be automatically added to a new Spotify playlist 
+Add songs to liked videos on YouTube and it will be automatically added to a new Spotify playlist.
+
+Views- [![HitCount](http://hits.dwyl.com/heyTanvi/Spotify_playlist_from_YouTube.svg)](http://hits.dwyl.com/heyTanvi/Spotify_playlist_from_YouTube)
 
 ### 1) Installing dependancies
 
